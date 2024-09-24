@@ -1,1 +1,9 @@
-
+What is Spring? 
+  Spring is a dependency injection framework.
+What is Dependency?
+  Dependency of a class can be described as what are all the things it needs to perform its functionality.
+  Dependency injection removed tight coupling which is achieved when we create objects manually.
+  Spring framework does the dependency injection for us. 
+What is Dependency Injection? 
+  The process in which spring framework instantiates the dependencies and provides to the dependent class at runtime is called Dependency Injection. 
+  
